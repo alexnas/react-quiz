@@ -25,4 +25,4 @@ This React Redux application is designed to create simple quizes. Consumes data 
 
 ## License
 
-- MIT
+This project is licensed under the terms of the MIT license.
